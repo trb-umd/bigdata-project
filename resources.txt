@@ -1,0 +1,5 @@
+dataset (LEDGAR_2016-2019.jsonl.zip) and scraped data (sec_crawl_data.tgz): https://drive.switch.ch/index.php/s/j9S0GRMAbGZKa1A
+
+SIC-annotated.jsonl: https://drive.google.com/file/d/1rWOvG9uO1bc2juI52Ob2grJ5maphylkr/view?usp=sharing (1.28 GB)
+
+SIC-aug-list.jsonl: https://drive.google.com/file/d/1p3R1brkqIe5Odccl9_mjcnnYhweD0k32/view?usp=sharing (7.24 GB)
